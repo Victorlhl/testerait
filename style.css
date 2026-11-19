@@ -1,0 +1,23 @@
+body{
+    max-width: 500px;
+    margin:auto;
+    box-shadow: auto;
+    background-color:pink;
+    border-radius: 20px;
+    color: white;
+    font-style: italic;
+    font-size: 23px;
+
+
+}
+
+button:hover {
+    background-color: blueviolet;
+    border-radius: 20px;
+    color: white;
+
+}
+
+.done{
+    text-decoration: line-through
+}
